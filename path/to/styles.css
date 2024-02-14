@@ -1,0 +1,40 @@
+body{ 
+    background-color: rgb(128, 77, 0);
+   }
+  
+   h1 {
+    color:  #ffc933; 
+    font-family: 'Arial Black', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  h2 {
+    color: #e26d4a; 
+    font-family: 'Georgia', serif;
+    text-decoration: underline;
+  }
+  
+  h3 {
+    color: #ffc400; 
+    font-family: 'Courier New', monospace;
+    text-transform: uppercase;
+  }
+  
+  /* Text */
+  p {
+    color: #c4a417; 
+    font-family: 'Times New Roman', serif;
+    line-height: 1.5;
+  }
+  
+  /* Links */
+  a {
+    color: #20cf7d; 
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #cc9600; 
+    text-decoration: underline;
+  }
