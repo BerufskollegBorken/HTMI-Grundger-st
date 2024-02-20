@@ -1,3 +1,7 @@
+/* Der Sinn der styles.css ist, die Farben, die Schriftgröße/-art,
+und das Aussehen aller Elemente in der HTML-Datei zu gestalten */
+
+
 body{ 
     background-color: rgb(128, 77, 0);
    }
@@ -37,4 +41,18 @@ body{
   a:hover {
     color: #cc9600; 
     text-decoration: underline;
+  }
+
+  Table{
+    border: lpx solid;
+    width: 100%;
+  }
+
+  tr{
+    border: lpx solid;
+  }
+
+  th{
+    border: lpx solid;
+    background-color: aqua;
   }
